@@ -1,20 +1,12 @@
-### Hi there 👋
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<h1 align="center">Hi 👋, I'm Sudipt Kumar</h1>
+<h3 align="center">Experiment.Fail.Learn.Repeat</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0MzM5YzYzYjNiNmQ3ZTQwMDExYjgyM2IwYmY3MDAxYjJkY2E2YSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<!--
 
--->
 
-# 💫 About Me:
-<br>
+- 🪟 Fun fact **I use Windows11 btw**
 
-- 🔭 I’m Sudipt Kumar.
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... -->
-- 😄 Pronouns: He / Him
-- 🪟 Fun fact: I use Windows 11 btw  .
 
 <br>
 
