@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://player.vimeo.com/video/352012012?title=0&portrait=0&byline=0&autoplay=1&muted=true)
 
 <h1 align="center">Hi 👋, I'm Sudipt Kumar</h1>
 <h3 align="center">Experiment.Fail.Learn.Repeat</h3>
