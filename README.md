@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/02dea395998833.5ea460d10b123.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_500/02dea395998833.5ea460d10b123.gif)
 
 <h1 align="center">Hi 👋, I'm Sudipt Kumar</h1>
 <h3 align="center">Experiment.Fail.Learn.Repeat</h3>
